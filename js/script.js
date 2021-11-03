@@ -35,6 +35,3 @@ function recibenumero(cantidad){
 	}
 	return numeros;
 }
-
-
-//Entrega 3
